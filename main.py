@@ -13,7 +13,7 @@ import time
 from typing import ClassVar, NoReturn, Any, Union, List, Dict
 
 # Related third party module imports
-import telebot
+
 import phonenumbers
 import countryflag
 
